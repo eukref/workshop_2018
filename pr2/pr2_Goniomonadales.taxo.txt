@@ -1,0 +1,7 @@
+kingdom	supergroup	division	class	order	family	genus	species	n
+Eukaryota	Hacrobia	Cryptophyta	Cryptophyceae	Cryptophyceae_X	Goniomonadales	Goniomonadales_X	Goniomonadales_X_sp.	7
+Eukaryota	Hacrobia	Cryptophyta	Cryptophyceae	Cryptophyceae_X	Goniomonadales	Goniomonas	Goniomonas_amphinema	2
+Eukaryota	Hacrobia	Cryptophyta	Cryptophyceae	Cryptophyceae_X	Goniomonadales	Goniomonas	Goniomonas_avonlea	1
+Eukaryota	Hacrobia	Cryptophyta	Cryptophyceae	Cryptophyceae_X	Goniomonadales	Goniomonas	Goniomonas_pacifica	1
+Eukaryota	Hacrobia	Cryptophyta	Cryptophyceae	Cryptophyceae_X	Goniomonadales	Goniomonas	Goniomonas_sp.	24
+Eukaryota	Hacrobia	Cryptophyta	Cryptophyceae	Cryptophyceae_X	Goniomonadales	Goniomonas	Goniomonas_truncata	6

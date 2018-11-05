@@ -1,0 +1,17 @@
+kingdom	supergroup	division	class	order	family	genus	species	n
+Eukaryota	Amoebozoa	Lobosa	Lobosa_X	Himatismenida	Cochliopodiidae	Cochliopodium	Cochliopodium_actinophorum	4
+Eukaryota	Amoebozoa	Lobosa	Lobosa_X	Himatismenida	Cochliopodiidae	Cochliopodium	Cochliopodium_bilimbosum	1
+Eukaryota	Amoebozoa	Lobosa	Lobosa_X	Himatismenida	Cochliopodiidae	Cochliopodium	Cochliopodium_kieliense	3
+Eukaryota	Amoebozoa	Lobosa	Lobosa_X	Himatismenida	Cochliopodiidae	Cochliopodium	Cochliopodium_larifeili	4
+Eukaryota	Amoebozoa	Lobosa	Lobosa_X	Himatismenida	Cochliopodiidae	Cochliopodium	Cochliopodium_minus	14
+Eukaryota	Amoebozoa	Lobosa	Lobosa_X	Himatismenida	Cochliopodiidae	Cochliopodium	Cochliopodium_minutoidum	4
+Eukaryota	Amoebozoa	Lobosa	Lobosa_X	Himatismenida	Cochliopodiidae	Cochliopodium	Cochliopodium_plurinucleolum	1
+Eukaryota	Amoebozoa	Lobosa	Lobosa_X	Himatismenida	Cochliopodiidae	Cochliopodium	Cochliopodium_sp.	3
+Eukaryota	Amoebozoa	Lobosa	Lobosa_X	Himatismenida	Cochliopodiidae	Cochliopodium	Cochliopodium_spiniferum	1
+Eukaryota	Amoebozoa	Lobosa	Lobosa_X	Himatismenida	Cochliopodiidae	Ovalopodium	Ovalopodium_desertum	5
+Eukaryota	Amoebozoa	Lobosa	Lobosa_X	Himatismenida	Goceviidae	Gocevia	Gocevia_fonbrunei	1
+Eukaryota	Amoebozoa	Lobosa	Lobosa_X	Himatismenida	Himatismenida_X	Himatismenida_XX	Himatismenida_XX_sp.	1
+Eukaryota	Amoebozoa	Lobosa	Lobosa_X	Himatismenida	Himatismenida_X	Squamamoeba	Squamamoeba_japonica	3
+Eukaryota	Amoebozoa	Lobosa	Lobosa_X	Himatismenida	Parvamoebidae	Parvamoeba	Parvamoeba_monoura	1
+Eukaryota	Amoebozoa	Lobosa	Lobosa_X	Himatismenida	Parvamoebidae	Parvamoeba	Parvamoeba_rugata	7
+Eukaryota	Amoebozoa	Lobosa	Lobosa_X	Himatismenida	Parvamoebidae	Parvamoeba	Parvamoeba_sp.	1
