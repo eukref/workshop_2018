@@ -1,0 +1,11 @@
+kingdom	supergroup	division	class	order	family	genus	species	n
+Eukaryota	Archaeplastida	Chlorophyta	Palmophyllophyceae	Palmophyllales	Palmophyllaceae	Palmophyllum	Palmophyllum_umbracola	2
+Eukaryota	Archaeplastida	Chlorophyta	Palmophyllophyceae	Palmophyllales	Palmophyllaceae	Verdigellas	Verdigellas_peltata	1
+Eukaryota	Archaeplastida	Chlorophyta	Palmophyllophyceae	Prasinococcales	Prasinococcales-Clade-A	Prasinococcus	Prasinococcus_capsulatus	19
+Eukaryota	Archaeplastida	Chlorophyta	Palmophyllophyceae	Prasinococcales	Prasinococcales-Clade-A	Prasinococcus	Prasinococcus_sp.	2
+Eukaryota	Archaeplastida	Chlorophyta	Palmophyllophyceae	Prasinococcales	Prasinococcales-Clade-B	Prasinococcales-Clade-B_X	Prasinococcales-Clade-B_X_sp.	1
+Eukaryota	Archaeplastida	Chlorophyta	Palmophyllophyceae	Prasinococcales	Prasinococcales-Clade-B	Prasinococcales-Clade-B_X	Prasinococcales-Clade-B1_X_sp.	3
+Eukaryota	Archaeplastida	Chlorophyta	Palmophyllophyceae	Prasinococcales	Prasinococcales-Clade-B	Prasinococcales-Clade-B_X	Prasinococcales-Clade-B2_X_sp.	1
+Eukaryota	Archaeplastida	Chlorophyta	Palmophyllophyceae	Prasinococcales	Prasinococcales-Clade-B	Prasinoderma	Prasinoderma_coloniale	30
+Eukaryota	Archaeplastida	Chlorophyta	Palmophyllophyceae	Prasinococcales	Prasinococcales-Clade-B	Prasinoderma	Prasinoderma_singularis	9
+Eukaryota	Archaeplastida	Chlorophyta	Palmophyllophyceae	Prasinococcales	Prasinococcales-Clade-B	Prasinoderma	Prasinoderma_sp.	5
