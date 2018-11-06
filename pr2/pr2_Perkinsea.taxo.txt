@@ -1,0 +1,14 @@
+kingdom	supergroup	division	class	order	family	genus	species	n
+Eukaryota	Alveolata	Perkinsea	Perkinsea_X	Perkinsea_XX	Perkinsea_XXX	Perkinsea_XXXX	Perkinsea_XXXX_sp.	1
+Eukaryota	Alveolata	Perkinsea	Perkinsida	Perkinsida_X	Parvilucifera-group	Parvilucifera	Parvilucifera_infectans	2
+Eukaryota	Alveolata	Perkinsea	Perkinsida	Perkinsida_X	Parvilucifera-group	Parvilucifera	Parvilucifera_prorocentri	1
+Eukaryota	Alveolata	Perkinsea	Perkinsida	Perkinsida_X	Parvilucifera-group	Parvilucifera	Parvilucifera_rostrata	1
+Eukaryota	Alveolata	Perkinsea	Perkinsida	Perkinsida_X	Parvilucifera-group	Parvilucifera	Parvilucifera_sinerae	2
+Eukaryota	Alveolata	Perkinsea	Perkinsida	Perkinsida_X	Parvilucifera-group	Parvilucifera-group_X	Parvilucifera-group_X_sp.	13
+Eukaryota	Alveolata	Perkinsea	Perkinsida	Perkinsida_X	Perkinsida_XX	Perkinsida_XXX	Perkinsida_XXX_sp.	66
+Eukaryota	Alveolata	Perkinsea	Perkinsida	Perkinsida_X	Perkinsida_XX	Perkinsus	Perkinsus_chesapeaki	4
+Eukaryota	Alveolata	Perkinsea	Perkinsida	Perkinsida_X	Perkinsida_XX	Perkinsus	Perkinsus_marinus	10
+Eukaryota	Alveolata	Perkinsea	Perkinsida	Perkinsida_X	Perkinsida_XX	Perkinsus	Perkinsus_mediterraneus	9
+Eukaryota	Alveolata	Perkinsea	Perkinsida	Perkinsida_X	Perkinsida_XX	Perkinsus	Perkinsus_olseni	2
+Eukaryota	Alveolata	Perkinsea	Perkinsida	Perkinsida_X	Perkinsida_XX	Perkinsus	Perkinsus_qugwadi	1
+Eukaryota	Alveolata	Perkinsea	Perkinsida	Perkinsida_X	Perkinsida_XX	Perkinsus	Perkinsus_sp.	1
