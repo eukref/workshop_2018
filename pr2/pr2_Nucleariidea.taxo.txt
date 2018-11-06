@@ -1,0 +1,9 @@
+kingdom	supergroup	division	class	order	family	genus	species	n
+Eukaryota	Opisthokonta	Mesomycetozoa	Nucleariidea	Nucleariida	Nucleariida_X	Nuclearia	Nuclearia_delicatula	1
+Eukaryota	Opisthokonta	Mesomycetozoa	Nucleariidea	Nucleariida	Nucleariida_X	Nuclearia	Nuclearia_moebiusi	2
+Eukaryota	Opisthokonta	Mesomycetozoa	Nucleariidea	Nucleariida	Nucleariida_X	Nuclearia	Nuclearia_pattersoni	1
+Eukaryota	Opisthokonta	Mesomycetozoa	Nucleariidea	Nucleariida	Nucleariida_X	Nuclearia	Nuclearia_simplex	2
+Eukaryota	Opisthokonta	Mesomycetozoa	Nucleariidea	Nucleariida	Nucleariida_X	Nuclearia	Nuclearia_sp.	6
+Eukaryota	Opisthokonta	Mesomycetozoa	Nucleariidea	Nucleariida	Nucleariida_X	Nuclearia	Nuclearia_thermophila	1
+Eukaryota	Opisthokonta	Mesomycetozoa	Nucleariidea	Nucleariida	Nucleariidae_Nuclearia_1	Nucleariidae_Nuclearia_1_X	Nucleariidae_Nuclearia_1_X_sp.	2
+Eukaryota	Opisthokonta	Mesomycetozoa	Nucleariidea	Nucleariida	Nucleariidae_Nuclearia_2	Nucleariidae_Nuclearia_2_X	Nucleariidae_Nuclearia_2_X_sp.	1
