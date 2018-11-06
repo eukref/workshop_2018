@@ -1,5 +1,0 @@
-kingdom	supergroup	division	class	order	family	genus	species	n
-Eukaryota	Stramenopiles	Stramenopiles_X	Placidideae	Placidiales	Placidiales_X	Placidia	Placidia_cafeteriopsis	2
-Eukaryota	Stramenopiles	Stramenopiles_X	Placidideae	Placidiales	Placidiales_X	Placidiales_XX	Placidiales_XX_sp.	2
-Eukaryota	Stramenopiles	Stramenopiles_X	Placidideae	Placidiales	Placidiales_X	Wobblia	Wobblia_lunata	1
-Eukaryota	Stramenopiles	Stramenopiles_X	Placidideae	Placidideae_X	Placidideae_XX	Placidideae_XXX	Placidideae_XXX_sp.	4
