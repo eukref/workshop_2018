@@ -1,0 +1,13 @@
+kingdom	supergroup	division	class	order	family	genus	species	n
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Kareniaceae	Brachidinium	Brachidinium_capitatum	1
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Kareniaceae	Karenia	Karenia_bicuneiformis	1
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Kareniaceae	Karenia	Karenia_brevis	14
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Kareniaceae	Karenia	Karenia_mikimotoi	6
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Kareniaceae	Karenia	Karenia_papilionacea	1
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Kareniaceae	Karenia	Karenia_selliformis	1
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Kareniaceae	Karenia	Karenia_sp.	3
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Kareniaceae	Kareniaceae_X	Kareniaceae_X_sp.	2
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Kareniaceae	Karlodinium	Karlodinium_sp.	13
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Kareniaceae	Karlodinium	Karlodinium_veneficum	24
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Kareniaceae	Takayama	Takayama_acrotrocha	2
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Kareniaceae	Takayama	Takayama_pulchellum	2

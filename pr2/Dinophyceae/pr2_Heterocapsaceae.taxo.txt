@@ -1,0 +1,11 @@
+kingdom	supergroup	division	class	order	family	genus	species	n
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_arctica	1
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_cf._niei	1
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_circularisquama	1
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	32
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	2
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_psammophila	1
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	36
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_rotundata	5
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	18
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_triquetra	9

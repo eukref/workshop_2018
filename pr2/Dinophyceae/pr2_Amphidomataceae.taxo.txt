@@ -1,0 +1,13 @@
+kingdom	supergroup	division	class	order	family	genus	species	n
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Amphidoma	Amphidoma_languida	3
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_caudatum	2
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_concinnum	2
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_cuneatum	2
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_dalianense	1
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_dexteroporum	2
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_obesum	1
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_polongum	1
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	4
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_sp.	5
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	6
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_trinitatum	6
